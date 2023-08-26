@@ -4,7 +4,7 @@
         <li> 🌱 I’m currently learning Java, App Development, Cloud Computing</li>
         <li> 🤔 I’m looking for help with App Devlopment </li>
         <li> 📫 How to reach me: Shivamkumarbxr23@gmail.com</li>
-        <li>👯 I’m looking to collaborate on Web and App development</li>
+        <li>👯 I’m looking to collaborate on Web and App devlopment</li>
     </ul>
 
  
